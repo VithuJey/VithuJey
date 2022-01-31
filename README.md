@@ -23,7 +23,7 @@ I'm a software developer based in Colombo, Sri Lanka, specializing in building w
 - 🖥 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - 📝 Blog
-  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [🔗](https://medium.com/@vithushjeytharma)
 <br/>
 
 <a href="https://github.com/vithujey">
