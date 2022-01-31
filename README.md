@@ -22,8 +22,8 @@ I'm a software developer based in Colombo, Sri Lanka, specializing in building w
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - 🖥 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-- 📝 Blog
-  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [🔗](https://medium.com/@vithushjeytharma)
+- 📝 &nbsp;Blog:&nbsp;
+  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) [@vithushjeytharma 🔗](https://medium.com/@vithushjeytharma)
 <br/>
 
 <a href="https://github.com/vithujey">
