@@ -2,7 +2,7 @@ Welcome 👋 , I'm Vithushan Jey
 
 I'm a software developer based in Colombo, Sri Lanka, specializing in building websites and mobile applications.
 
-📝 To read my blog, click [here](https://medium.com/@vithushjeytharma)
+📝 Click [here](https://medium.com/@vithushjeytharma) to read my blog posts
 
 🛠 &nbsp;Tech Stack
 
