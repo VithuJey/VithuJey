@@ -25,7 +25,3 @@ I'm a software developer based in Colombo, Sri Lanka, specializing in building w
 - 🖥 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 <br/>
-
-<a href="https://github.com/vithujey">
-    <img height="180em" alt="profile stats" src="https://github-readme-stats.vercel.app/api?username=vithujey&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&count_private=true" />
-</a>
